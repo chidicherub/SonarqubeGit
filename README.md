@@ -1,2 +1,2 @@
 # SonarqubeGit
-project intergration with sonarqube
+running netflixish-app codes with sonarqube 
